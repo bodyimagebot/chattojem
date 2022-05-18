@@ -24,7 +24,7 @@ There is a huge demand for body image focused support and we need to grow our te
 
 We know that with more advanced AI, KIT 2.0 will be able to help more people and improve the psychological well-being of our users even more. This will mean that they do not go on to develop more serious mental health issues like eating disorders.
 
-[KIT banner](https://www.monash.edu/__data/assets/image/0005/2861933/varieties/banner.static.medium.jpg)
+![KIT banner](https://www.monash.edu/__data/assets/image/0005/2861933/varieties/banner.static.medium.jpg)
 
 **Your donation will allow us to improve this vital service which is improving the body image and mental health of thousands of Australians.**
 
@@ -42,6 +42,8 @@ Thank you very much from KIT and the team!
 
 To keep up with the adventures of KIT and Dr Gemma Sharp [click here](https://twitter.com/gemmasharp11).
 
-  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
-  <df-messenger df-cx="true" location="australia-southeast1" chat-title="KIT-beta"
-    agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en"></df-messenger>
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
+<df-messenger df-cx="true" location="australia-southeast1" chat-title="KIT-beta"
+    agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en">
+</df-messenger>

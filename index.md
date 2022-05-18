@@ -41,3 +41,7 @@ To give to this valuable service, please mention “KIT” in the “my choice�
 Thank you very much from KIT and the team!
 
 To keep up with the adventures of KIT and Dr Gemma Sharp [click here](https://twitter.com/gemmasharp11).
+
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
+  <df-messenger df-cx="true" location="australia-southeast1" chat-title="KIT-beta"
+    agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en"></df-messenger>

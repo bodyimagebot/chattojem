@@ -44,5 +44,5 @@ To keep up with the adventures of KIT and Dr Gemma Sharp [click here](https://tw
 
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
-<df-messenger df-cx="true" location="australia-southeast1" chat-title="KIT 2.0" chat-icon="https://d3gu1620mcm00t.cloudfront.net/images/chattokit-36px.png" agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en" intent="initiate-dialog">
+<df-messenger df-cx="true" location="australia-southeast1" chat-title="KIT 2.0" chat-icon="https://d3gu1620mcm00t.cloudfront.net/images/chattokit-36px.png" agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en" intent="WELCOME">
 </df-messenger>

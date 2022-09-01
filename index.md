@@ -12,11 +12,11 @@ Our own [Dr Gemma Sharp](https://research.monash.edu/en/persons/gemma-sharp) has
 
 JEM is research driven and uses artificial intelligence (AI) to have human-like conversations. To read more about our research development of JEM, [click here](https://www.jmir.org/2021/6/e27807/).
 
-![JEM banner](https://www.monash.edu/__data/assets/image/0004/2861932/varieties/banner.static.medium.png)
+![JEM banner](https://d3gu1620mcm00t.cloudfront.net/jem/images/small_JEM_screenshot_81b33fa682.png)
 
 Since launch in November 2020, the prior version of JEM - KIT version 1.0 has chatted with over 23,000 people via 133,000 text messages.
 
-The research-based coping skills taught by JEM have led to significant improvements in the body image and mental health of our users. Here's JEM's [mindful selfie exercise](https://www.youtube.com/watch?v=snuIhZpL-aU&amp;feature=youtu.be).
+The research-based coping skills taught by JEM have led to significant improvements in the body image and mental health of our users. Here's JEM's [mindful selfie exercise](https://www.youtube.com/watch?v=vz3E33QV7zw).
 
 We're proud of what JEM has achieved so far, but JEM 1.0 employed the simplest form of AI and we're ready to make JEM more talkative and engaging for our users.
 

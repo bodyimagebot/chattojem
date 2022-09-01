@@ -1,6 +1,6 @@
 # Chatbot JEM
 
-![JEM banner](https://d3gu1620mcm00t.cloudfront.net/jem/images/small_JEM_Chatbox_RGB_POSE_01_NO_SPEECH_BUBBLE_3dd4b6dfe9.jpg)
+![JEM banner](https://d3gu1620mcm00t.cloudfront.net/jem/images/small_JEM_Chatbox_POSE_01_NO_SPEECH_BUBBLE_f4674d3cad.png)
 
 We are constantly bombarded with our own image on social media, in selfies and on the Zoom camera. We know that many people of all genders, ages and backgrounds are concerned about their body image.
 
@@ -24,7 +24,7 @@ There is a huge demand for body image focused support and we need to grow our te
 
 We know that with more advanced AI, JEM will be able to help more people and improve the psychological well-being of our users even more. This will mean that they do not go on to develop more serious mental health issues like eating disorders.
 
-![JEM banner](https://d3gu1620mcm00t.cloudfront.net/jem/images/small_JEM_Chatbox_RGB_POSE_03_7bcd56a552.jpg)
+![JEM banner](https://d3gu1620mcm00t.cloudfront.net/jem/images/small_JEM_Chatbox_POSE_03_49c3bb2392.png)
 
 **Your donation will allow us to improve this vital service which is improving the body image and mental health of thousands of Australians.**
 

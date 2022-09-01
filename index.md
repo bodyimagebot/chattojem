@@ -44,5 +44,5 @@ To keep up with the adventures of JEM and Dr Gemma Sharp [click here](https://tw
 
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
-<df-messenger df-cx="true" location="australia-southeast1" chat-title="JEM" chat-icon="https://d3gu1620mcm00t.cloudfront.net/jem/images/thumbnail_JEM_Chatbox_POSE_01_NO_SPEECH_BUBBLE_f4674d3cad.png" agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en" intent="WELCOME">
+<df-messenger df-cx="true" location="australia-southeast1" chat-title="JEM" chat-icon="https://d3gu1620mcm00t.cloudfront.net/jem/images/thumbnail_JEM_Chatbox_POSE_01_67847a9817.png" agent-id="b975dd3f-8aaa-4873-894e-005afbfd9d6c" language-code="en" intent="WELCOME">
 </df-messenger>
